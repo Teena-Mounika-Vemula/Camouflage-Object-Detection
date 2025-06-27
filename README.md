@@ -129,7 +129,7 @@ Key features:
 ---
 
 ## 📂 Project Structure
-kavyasudha2803/
+Teena-Mounika-Vemula/
 
 ├── .gitignore
 
