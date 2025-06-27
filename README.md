@@ -152,11 +152,11 @@ See the `MIT License.txt` file for details.
 
 ## 👥 Authors
 
-- Kavya Sudha Gorrepati  
+- Vemula Teena Mounika  
 - Akuthota Meghana  
 - Vuyyala Likhitha  
 - Pagadala Pooja  
-- Vemula Teena Mounika  
+- Kavya Sudha Gorrepati 
 
 **Supervisor**: Dr. Habila Basumatary  
 *Indian Institute of Information Technology, Pune*
